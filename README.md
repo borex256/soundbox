@@ -139,6 +139,30 @@ input,textarea{
   </div>
 </section>
 
+
+<!-- SERVICES -->
+<section id="services">
+  <h2>Services</h2>
+  <div class="grid">
+    <div class="card">Music Production</div>
+    <div class="card">Beat Production</div>
+    <div class="card">Songwriting</div>
+    <div class="card">Vocal Coaching</div>
+    <div class="card">Artist Development</div>
+    <div class="card">Mixing & Mastering</div>
+    <div class="card">Studio Recording</div>
+    <div class="card">Music Branding</div>
+    <div class="card">Label Services</div>
+  </div>
+</section>
+
+<!-- GALLERY -->
+<section id="gallery">
+  <h2>Gallery</h2>
+  <div class="card">
+    Photos • Studio Sessions • Performances • Music Videos • Behind The Scenes
+  </div>
+</section>
 <!-- MUSIC STORE -->
 <section id="music">
   <h2>Music Store</h2>
@@ -163,30 +187,6 @@ input,textarea{
     </div>
   </div>
 </section>
-<!-- SERVICES -->
-<section id="services">
-  <h2>Services</h2>
-  <div class="grid">
-    <div class="card">Music Production</div>
-    <div class="card">Beat Production</div>
-    <div class="card">Songwriting</div>
-    <div class="card">Vocal Coaching</div>
-    <div class="card">Artist Development</div>
-    <div class="card">Mixing & Mastering</div>
-    <div class="card">Studio Recording</div>
-    <div class="card">Music Branding</div>
-    <div class="card">Label Services</div>
-  </div>
-</section>
-
-<!-- GALLERY -->
-<section id="gallery">
-  <h2>Gallery</h2>
-  <div class="card">
-    Photos • Studio Sessions • Performances • Music Videos • Behind The Scenes
-  </div>
-</section>
-
 <!-- STREAMING -->
 <section id="stream">
   <h2>Streaming Platforms</h2>
