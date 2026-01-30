@@ -111,8 +111,8 @@ input,textarea{
 <section id="home" class="hero">
   <h1>KIM C MUSIC</h1>
   <p><b>Artist • Producer • Songwriter • Vocal Coach</b></p>
-  <p>Sub Sound Box Records</p>
-  <p>Reggae • R&B • Dancehall</p>
+  <p>Sound Box Records</p>
+  <p> Afro pop •Reggae • R&B • Dancehall</p>
   <div>
     <span class="badge">Music Store</span>
     <span class="badge">Beat Store</span>
