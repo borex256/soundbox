@@ -1,8 +1,7 @@
-<!DOCTYPE html>
 <html lang="en">
 <head>
 <meta charset="UTF-8">
-<title>Kim C Music | Sub Sound Box Records</title>
+<title>Kim C Music |  Sound Box Records</title>
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
 <style>
@@ -164,7 +163,42 @@ input,textarea{
     </div>
   </div>
 </section>
+<!-- SERVICES -->
+<section id="services">
+  <h2>Services</h2>
+  <div class="grid">
+    <div class="card">Music Production</div>
+    <div class="card">Beat Production</div>
+    <div class="card">Songwriting</div>
+    <div class="card">Vocal Coaching</div>
+    <div class="card">Artist Development</div>
+    <div class="card">Mixing & Mastering</div>
+    <div class="card">Studio Recording</div>
+    <div class="card">Music Branding</div>
+    <div class="card">Label Services</div>
+  </div>
+</section>
 
+<!-- GALLERY -->
+<section id="gallery">
+  <h2>Gallery</h2>
+  <div class="card">
+    Photos • Studio Sessions • Performances • Music Videos • Behind The Scenes
+  </div>
+</section>
+
+<!-- STREAMING -->
+<section id="stream">
+  <h2>Streaming Platforms</h2>
+  <div class="grid">
+    <div class="card">YouTube</div>
+    <div class="card">SoundCloud</div>
+    <div class="card">Audiomack</div>
+    <div class="card">Spotify</div>
+    <div class="card">Boomplay</div>
+    <div class="card">Mdundo</div>
+  </div>
+</section>
 <!-- BEAT STORE -->
 <section id="beats">
   <h2>Beat Store</h2>
@@ -190,21 +224,6 @@ input,textarea{
   </div>
 </section>
 
-<!-- SERVICES -->
-<section id="services">
-  <h2>Services</h2>
-  <div class="grid">
-    <div class="card">Music Production</div>
-    <div class="card">Beat Production</div>
-    <div class="card">Songwriting</div>
-    <div class="card">Vocal Coaching</div>
-    <div class="card">Artist Development</div>
-    <div class="card">Mixing & Mastering</div>
-    <div class="card">Studio Recording</div>
-    <div class="card">Music Branding</div>
-    <div class="card">Label Services</div>
-  </div>
-</section>
 
 <!-- STUDIO -->
 <section id="studio">
@@ -220,33 +239,13 @@ input,textarea{
   </div>
 </section>
 
-<!-- GALLERY -->
-<section id="gallery">
-  <h2>Gallery</h2>
-  <div class="card">
-    Photos • Studio Sessions • Performances • Music Videos • Behind The Scenes
-  </div>
-</section>
-
-<!-- STREAMING -->
-<section id="stream">
-  <h2>Streaming Platforms</h2>
-  <div class="grid">
-    <div class="card">YouTube</div>
-    <div class="card">SoundCloud</div>
-    <div class="card">Audiomack</div>
-    <div class="card">Spotify</div>
-    <div class="card">Boomplay</div>
-    <div class="card">Mdundo</div>
-  </div>
-</section>
 
 <!-- CONTACT -->
 <section id="contact">
   <h2>Contact & Location</h2>
   <div class="card">
-    <p><b>Location:</b> Kampala, Uganda</p>
-    <p><b>Label:</b> Sub Sound Box Records</p>
+    <p><b>Location:</b> Kampala,konge kansanga poster road  Uganda</p>
+    <p><b>Label:</b> Sound Box Records</p>
     <p><b>Email:</b> info@kimcmusic.com</p>
     <p><b>Payments:</b> MTN Mobile Money • Airtel Money • Visa • MasterCard</p>
     <p><b>Socials:</b> YouTube • Instagram • Facebook • SoundCloud</p>
@@ -254,7 +253,7 @@ input,textarea{
 </section>
 
 <div class="footer">
-  <p>© 2026 Kim C Music | Sub Sound Box Records</p>
+  <p>© 2026 Kim C Music | Sound Box Records</p>
   <p>All Rights Reserved</p>
 </div>
 
